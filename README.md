@@ -1,4 +1,4 @@
-# 🧑‍⚖️ Legal Text Summarizer: Your Tireless Paralegal Assistant
+# ⚖️ Legal Text Summarizer: Your Tireless Paralegal Assistant
 
 Welcome to the Digital Law Library, where towering stacks of legal documents transform into concise briefs faster than you can say "case dismissed"!
 
